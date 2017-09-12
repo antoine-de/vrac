@@ -1,0 +1,329 @@
+admin_id,admin_name,stop_id,stop_name
+admin:53110,Grez-en-Bouère,stop_area:C53:SA:2557,Rue de la Libération
+admin:53016,Bais,stop_area:C53:SA:520,Abribus Terrain de s
+admin:53123,Juvigné,stop_area:C53:SA:6492,Eglise
+admin:53109,Grazay,stop_area:C53:SA:2546,Pl. de l'Eglise
+admin:53109,Grazay,stop_area:C53:SA:13560,La Rechignée
+admin:53109,Grazay,stop_area:C53:SA:13994,La Renardiere
+admin:49305,Saint-Martin-du-Bois,stop_area:C53:SA:11497,La Daudinière
+admin:53062,Château-Gontier,stop_area:C53:SA:1448,Lycée professionnel Robert Schuman
+admin:53062,Château-Gontier,stop_area:C53:SA:1450,Lycée Pierre et Marie Curie
+admin:53062,Château-Gontier,stop_area:C53:SA:1453,Col. J. Rostand
+admin:53062,Château-Gontier,stop_area:C53:SA:1454,Col. St Michel
+admin:53062,Château-Gontier,stop_area:C53:SA:1455,Lycée V. Hugo
+admin:53062,Château-Gontier,stop_area:C53:SA:1479,Résistance
+admin:53062,Château-Gontier,stop_area:C53:SA:1481,Bazouges pharmacie
+admin:53062,Château-Gontier,stop_area:C53:SA:1486,Lycée St Michel
+admin:53062,Château-Gontier,stop_area:C53:SA:9223,Avenue Joffre
+admin:53165,Niafles,stop_area:C53:SA:4013,Eglise
+admin:53102,Gastines,stop_area:C53:SA:2404,Eglise
+admin:53174,Parigné-sur-Braye,stop_area:C53:SA:9394,Eglise
+admin:53174,Parigné-sur-Braye,stop_area:C53:SA:10177,La Chauvière
+admin:44199,Soudan,stop_area:C53:SA:9225,Rue du 11 Novembre
+admin:53097,Évron,stop_area:C53:SA:11560,Bd Rochemado
+admin:49007,Angers,stop_area:SNC:SA:SAOCE87484006,gare SNCF et routière Angers-St-Laud
+admin:49007,Angers,stop_area:ANG:SA:98,IUT
+admin:49007,Angers,stop_area:ANG:SA:2125,Poissonnerie
+admin:53136,Loigné-sur-Mayenne,stop_area:C53:SA:3307,Salle des fêtes
+admin:53058,La Chapelle-Craonnaise,stop_area:C53:SA:13265,RD 771
+admin:53058,La Chapelle-Craonnaise,stop_area:C53:SA:1411,Le Bourg
+admin:53225,Saint-Germain-le-Guillaume,stop_area:C53:SA:5187,Eglise
+admin:53185,Pré-en-Pail-Saint-Samson,stop_area:C53:SA:4322,Eglise
+admin:53185,Pré-en-Pail-Saint-Samson,stop_area:C53:SA:13446,MFR Chauviniere
+admin:49155,Grez-Neuville,stop_area:C49:SA:LI155,GRIEUL
+admin:53119,L'Huisserie,stop_area:C53:SA:2739,Lilas
+admin:53119,L'Huisserie,stop_area:C53:SA:11465,Ste Croix
+admin:53079,Couesmes-Vaucé,stop_area:C53:SA:1846,Ancienne école de Vaucé
+admin:53079,Couesmes-Vaucé,stop_area:C53:SA:1875,Abribus Eglise
+admin:53130,Laval,stop_area:LAV:SA:134,Grat
+admin:53130,Laval,stop_area:LAV:SA:17,Archives
+admin:53130,Laval,stop_area:LAV:SA:171,Hydouze
+admin:53130,Laval,stop_area:LAV:SA:19,Avesnières
+admin:53130,Laval,stop_area:LAV:SA:202,Fuye
+admin:53130,Laval,stop_area:LAV:SA:226,Cale
+admin:53130,Laval,stop_area:LAV:SA:238,Lauriers
+admin:53130,Laval,stop_area:LAV:SA:245,Mairie
+admin:53130,Laval,stop_area:LAV:SA:30,Baclerie
+admin:53130,Laval,stop_area:LAV:SA:306,Route de Tours
+admin:53130,Laval,stop_area:LAV:SA:309,Ridelleries
+admin:53130,Laval,stop_area:LAV:SA:80,Chanzy
+admin:53130,Laval,stop_area:LAV:SA:85,Château d'Eau
+admin:53130,Laval,stop_area:LAV:SA:9,Jarry
+admin:53130,Laval,stop_area:C53:SA:3151,Col. A. Gerbault
+admin:53130,Laval,stop_area:C53:SA:3152,Col. La Salle
+admin:53130,Laval,stop_area:C53:SA:3153,Lycée Hte Follis
+admin:53130,Laval,stop_area:C53:SA:3156,Rue de Nantes
+admin:53130,Laval,stop_area:C53:SA:3157,Lycée G. Lesnard
+admin:53130,Laval,stop_area:C53:SA:3170,Halte Routière Centr
+admin:53130,Laval,stop_area:C53:SA:3184,Col. I. Conception
+admin:53130,Laval,stop_area:C53:SA:9205,Quai Gambetta
+admin:53130,Laval,stop_area:C53:SA:10083,Ste Catherine
+admin:53130,Laval,stop_area:C53:SA:11478,Beck
+admin:53130,Laval,stop_area:C53:SA:11479,De Sèze
+admin:53130,Laval,stop_area:C53:SA:11539,Bienvenu
+admin:53130,Laval,stop_area:C53:SA:11956,Saint Martin
+admin:53130,Laval,stop_area:C53:SA:12339,Blancherie
+admin:53130,Laval,stop_area:C53:SA:13243,Rte de Tours i
+admin:53130,Laval,stop_area:C53:SA:13954,RIDELLERIES - LAURIE
+admin:53130,Laval,stop_area:SNC:SA:SAOCE87478404,gare de Laval
+admin:53151,Méral,stop_area:C53:SA:3681,Ecole privée
+admin:53151,Méral,stop_area:C53:SA:3682,Rue de Bretagne
+admin:49088,Chazé-Henry,stop_area:C53:SA:9226,Vire Bouton
+admin:61001,Alençon,stop_area:C53:SA:6843,Lycée Alain
+admin:61001,Alençon,stop_area:C53:SA:9399,St François (Rue Pap
+admin:53090,Denazé,stop_area:C53:SA:8507,Abribus Mairie
+admin:53090,Denazé,stop_area:C53:SA:9189,Abribus Tennis
+admin:53206,Saint-Charles-la-Forêt,stop_area:C53:SA:4787,Carrefour Plaisance
+admin:53051,Champéon,stop_area:C53:SA:9199,Pl. de l'Eglise
+admin:53051,Champéon,stop_area:C53:SA:10771,Le Vieux Benâtre
+admin:53011,Astillé,stop_area:C53:SA:364,Pl. du Centre
+admin:53190,Le Ribay,stop_area:C53:SA:4463,Place du Centre
+admin:53248,Saint-Pierre-sur-Erve,stop_area:C53:SA:5681,Eglise
+admin:53124,Laigné,stop_area:C53:SA:2932,Mairie
+admin:53124,Laigné,stop_area:C53:SA:2952,Bascule
+admin:53124,Laigné,stop_area:C53:SA:2968,La Maison Neuve
+admin:53124,Laigné,stop_area:C53:SA:9268,La Pelterie
+admin:53073,Congrier,stop_area:C53:SA:1671,La Grée
+admin:53073,Congrier,stop_area:C53:SA:11542,Eglise
+admin:53201,Saint-Berthevin,stop_area:C53:SA:4677,Dunkerque
+admin:53157,Montigné-le-Brillant,stop_area:C53:SA:3862,Le Haut Chêne
+admin:53157,Montigné-le-Brillant,stop_area:C53:SA:13248,La Prise Roland
+admin:165956extern,La Guerche-de-Bretagne,stop_area:C53:SA:9301,Pl. Champ de Foire
+admin:53139,Loupfougères,stop_area:C53:SA:3384,Eglise
+admin:53139,Loupfougères,stop_area:C53:SA:3393,La Mare David
+admin:53139,Loupfougères,stop_area:C53:SA:12552,La Hélonnière
+admin:53253,Saint-Saturnin-du-Limet,stop_area:C53:SA:8354,Eglise
+admin:49248,Pouancé,stop_area:C53:SA:6789,Avenue Général de Gaulle
+admin:53003,Ambrières-les-Vallées,stop_area:C53:SA:6349,8 rue de la Touche
+admin:53003,Ambrières-les-Vallées,stop_area:C53:SA:71,Montaton
+admin:53003,Ambrières-les-Vallées,stop_area:C53:SA:72,G. le Conquérant
+admin:53003,Ambrières-les-Vallées,stop_area:C53:SA:73,Courtille
+admin:53003,Ambrières-les-Vallées,stop_area:C53:SA:74,Parc de Vaux
+admin:53003,Ambrières-les-Vallées,stop_area:C53:SA:83,Cigné
+admin:53003,Ambrières-les-Vallées,stop_area:C53:SA:12498,Mons
+admin:53003,Ambrières-les-Vallées,stop_area:C53:SA:12617,Carrefour route de Cigné et D 2
+admin:53061,Charchigné,stop_area:C53:SA:1437,Abri Salle des Fêtes
+admin:53061,Charchigné,stop_area:C53:SA:10309,Bibliothèque
+admin:53111,La Haie-Traversaine,stop_area:C53:SA:2588,Ecole
+admin:53226,Saint-Hilaire-du-Maine,stop_area:C53:SA:5216,Rue du lavoir
+admin:53064,Châtillon-sur-Colmont,stop_area:C53:SA:1517,Ecole publique
+admin:53018,Ballots,stop_area:C53:SA:9384,Pl. de la Bascule
+admin:53107,Gorron,stop_area:C53:SA:2515,Pl. Champ de Foire
+admin:53202,Saint-Berthevin-la-Tannière,stop_area:C53:SA:9558,Rd Pt Tannière
+admin:53048,Chailland,stop_area:C53:SA:1214,Le Pont de la Claie
+admin:53048,Chailland,stop_area:C53:SA:1218,Le Tertre
+admin:53048,Chailland,stop_area:C53:SA:1220,Stade
+admin:53048,Chailland,stop_area:C53:SA:13757,Rue St Germain
+admin:53096,Ernée,stop_area:C53:SA:2194,Collège R. Cassin
+admin:53096,Ernée,stop_area:C53:SA:2212,Stade
+admin:53096,Ernée,stop_area:C53:SA:2213,Pl. Noe Guesdon
+admin:53096,Ernée,stop_area:C53:SA:8201,Bricomarché
+admin:53096,Ernée,stop_area:C53:SA:9495,Lycée professionnel Rochefeuille
+admin:53096,Ernée,stop_area:C53:SA:10296,Collège St Joseph
+admin:53096,Ernée,stop_area:C53:SA:10449,Avenue A. Briand
+admin:53096,Ernée,stop_area:C53:SA:13876,Querminais
+admin:53269,Vautorte,stop_area:C53:SA:6177,Rue du Maine
+admin:53155,Montenay,stop_area:C53:SA:3802,Place Derbré
+admin:53168,Nuillé-sur-Vicoin,stop_area:C53:SA:4043,Anjou
+admin:35217,Le Pertre,stop_area:C53:SA:9193,Eglise
+admin:53009,Arquenay,stop_area:C53:SA:304,Bois de Bergault
+admin:53009,Arquenay,stop_area:C53:SA:311,Eglise
+admin:53169,Olivet,stop_area:C53:SA:4062,Route de St Ouen
+admin:53086,La Croixille,stop_area:C53:SA:1992,Parking D29
+admin:53037,Bouessay,stop_area:C53:SA:948,Mairie
+admin:53040,Bourgon,stop_area:C53:SA:10386,Eglise
+admin:53152,Meslay-du-Maine,stop_area:C53:SA:3711,Rue de la Gare
+admin:53152,Meslay-du-Maine,stop_area:C53:SA:3716,Col. M. Genevoix
+admin:53152,Meslay-du-Maine,stop_area:C53:SA:12149,Centre commercial
+admin:53271,Villaines-la-Juhel,stop_area:C53:SA:6207,17 rue Gervaiseau
+admin:53271,Villaines-la-Juhel,stop_area:C53:SA:6209,Ens. St Nicolas
+admin:53271,Villaines-la-Juhel,stop_area:C53:SA:6210,Col. Garettes
+admin:53271,Villaines-la-Juhel,stop_area:C53:SA:6212,Ecole publique
+admin:53015,La Baconnière,stop_area:C53:SA:6379,Giratoire rue de Lav
+admin:53015,La Baconnière,stop_area:C53:SA:9577,Eglise
+admin:53160,Montreuil-Poulay,stop_area:C53:SA:3941,Salle des Fêtes
+admin:53160,Montreuil-Poulay,stop_area:C53:SA:11474,Eglise de Poulay
+admin:53188,Renazé,stop_area:C53:SA:4441,Rue de la Gare
+admin:53188,Renazé,stop_area:C53:SA:4446,Rue Mal Leclerc
+admin:53229,Saint-Jean-sur-Mayenne,stop_area:C53:SA:5289,Courcelle
+admin:53042,Brecé,stop_area:C53:SA:1072,Eglise
+admin:53104,Gennes-sur-Glaize,stop_area:C53:SA:2448,Pl. des Lavandières
+admin:53104,Gennes-sur-Glaize,stop_area:C53:SA:2453,Rue Principale
+admin:53104,Gennes-sur-Glaize,stop_area:C53:SA:2457,Le Bocage
+admin:53104,Gennes-sur-Glaize,stop_area:C53:SA:11651,9  rue Div. Leclerc
+admin:53104,Gennes-sur-Glaize,stop_area:C53:SA:12889,Rue Leclerc anc. éco
+admin:53104,Gennes-sur-Glaize,stop_area:C53:SA:13891,Pkg rue de l'école
+admin:53030,Le Bignon-du-Maine,stop_area:C53:SA:789,Eglise
+admin:53180,Pommerieux,stop_area:C53:SA:4237,La Rouette Moreau
+admin:53180,Pommerieux,stop_area:C53:SA:4263,Zone d'activités de La Chesnaie
+admin:53145,Marigné-Peuton,stop_area:C53:SA:3503,Carrefour Le Cormier et D 22
+admin:53145,Marigné-Peuton,stop_area:C53:SA:3510,Rue de l'Europe
+admin:53145,Marigné-Peuton,stop_area:C53:SA:12654,Voie communale La Viennière
+admin:53146,Martigné-sur-Mayenne,stop_area:C53:SA:3528,Eglise
+admin:53146,Martigné-sur-Mayenne,stop_area:C53:SA:7443,Carrefour les 4 chemins
+admin:53146,Martigné-sur-Mayenne,stop_area:C53:SA:9257,Rue Vénus
+admin:53146,Martigné-sur-Mayenne,stop_area:C53:SA:9258,Abri Rue Cassiopée
+admin:53146,Martigné-sur-Mayenne,stop_area:C53:SA:11881,Rond Point
+admin:53212,Saint-Denis-du-Maine,stop_area:C53:SA:4950,Pkg anc. école
+admin:53220,Saint-Georges-le-Fléchard,stop_area:C53:SA:5095,Abri R.4 Vents
+admin:53147,Mayenne,stop_area:C53:SA:3559,Col. J. Ferry
+admin:53147,Mayenne,stop_area:C53:SA:3560,Col. Sévigné
+admin:53147,Mayenne,stop_area:C53:SA:3563,Lycée Lavoisier
+admin:53147,Mayenne,stop_area:C53:SA:3564,Lycée professionnel Léonard de Vinci
+admin:53147,Mayenne,stop_area:C53:SA:3565,Ensemble Don Bosco
+admin:53147,Mayenne,stop_area:C53:SA:3566,Lycée professionnel Rochefeuille
+admin:53147,Mayenne,stop_area:C53:SA:9200,Carrefour Mallécot
+admin:53147,Mayenne,stop_area:C53:SA:9215,Gare SNCF
+admin:53147,Mayenne,stop_area:C53:SA:11538,La Motte
+admin:53175,Parné-sur-Roc,stop_area:C53:SA:4128,La Tannerie
+admin:53005,Andouillé,stop_area:C53:SA:167,Rue U. Benois
+admin:53005,Andouillé,stop_area:C53:SA:10305,IME
+admin:53005,Andouillé,stop_area:C53:SA:11198,Eglise
+admin:53219,Saint-Georges-Buttavent,stop_area:C53:SA:5055,RN12
+admin:53219,Saint-Georges-Buttavent,stop_area:C53:SA:5082,Eglise
+admin:53022,La Bazouge-de-Chemeré,stop_area:C53:SA:613,Abri S. des F
+admin:49176,Le Lion-d'Angers,stop_area:C53:SA:9222,Champ de Foire
+admin:53245,Saint-Pierre-des-Landes,stop_area:C53:SA:5597,Eglise
+admin:53084,Craon,stop_area:C53:SA:1936,Collège le Prieuré
+admin:53084,Craon,stop_area:C53:SA:1937,Collège Volney
+admin:53084,Craon,stop_area:C53:SA:1942,La Croix Raudière
+admin:53084,Craon,stop_area:C53:SA:8417,Château
+admin:53084,Craon,stop_area:C53:SA:8907,St Clément
+admin:53084,Craon,stop_area:C53:SA:9185,Piscine
+admin:53084,Craon,stop_area:C53:SA:9186,Hippodrome
+admin:53084,Craon,stop_area:C53:SA:9187,Rocade
+admin:53084,Craon,stop_area:C53:SA:9227,Pl. du 8 Mai
+admin:53084,Craon,stop_area:C53:SA:9564,Cité Champagne
+admin:53084,Craon,stop_area:C53:SA:10228,MFR Hippodrome
+admin:53084,Craon,stop_area:C53:SA:12531,MFR Oudon
+admin:53084,Craon,stop_area:C53:SA:12676,Crédit Agricole
+admin:53273,Villiers-Charlemagne,stop_area:C53:SA:6257,Mairie
+admin:53255,Sainte-Suzanne-et-Chammes,stop_area:C53:SA:5832,Pl. Amb. de Loré
+admin:53255,Sainte-Suzanne-et-Chammes,stop_area:C53:SA:5833,La Rivière
+admin:53255,Sainte-Suzanne-et-Chammes,stop_area:C53:SA:1263,Eglise
+admin:53128,Laubrières,stop_area:C53:SA:3125,Rte de St Poix
+admin:53054,Changé,stop_area:C53:SA:13247,Rte de Mayenne pair
+admin:53054,Changé,stop_area:C53:SA:13260,Rte de Mayenne impai
+admin:53054,Changé,stop_area:C53:SA:1333,Les Landes
+admin:53054,Changé,stop_area:C53:SA:1334,Les Chênes Secs
+admin:53078,Coudray,stop_area:C53:SA:1838,Rue Principale
+admin:53144,Marcillé-la-Ville,stop_area:C53:SA:2687,Ricordeau
+admin:53144,Marcillé-la-Ville,stop_area:C53:SA:3477,Ecole
+admin:53170,Oisseau,stop_area:C53:SA:9166,Abribus Bascule
+admin:53170,Oisseau,stop_area:C53:SA:9393,Lot. Rte de Chatillo
+admin:53038,Boulay-les-Ifs,stop_area:C53:SA:9400,Parking D 245 et D 144
+admin:53116,Le Horps,stop_area:C53:SA:9198,Pkg Salle Polyvalent
+admin:53240,Saint-Martin-du-Limet,stop_area:C53:SA:5469,Mairie
+admin:53240,Saint-Martin-du-Limet,stop_area:C53:SA:5913,Carrefour de la Crue
+admin:53099,Forcé,stop_area:TLA:SA:LAV89,Bourg
+admin:53099,Forcé,stop_area:C53:SA:9251,Parc des Sports
+admin:53055,Chantrigné,stop_area:C53:SA:8149,Mairie
+admin:53055,Chantrigné,stop_area:C53:SA:1367,Pkg Pierre Blanche
+admin:53008,Aron,stop_area:C53:SA:282,Abribus Rue des Lois
+admin:53008,Aron,stop_area:C53:SA:284,Eglise
+admin:53008,Aron,stop_area:C53:SA:10450,La Garrigue d'Alger
+admin:53008,Aron,stop_area:C53:SA:10475,Abribus La Turpinièr
+admin:53008,Aron,stop_area:C53:SA:11176,Le Chêne des Croix
+admin:53008,Aron,stop_area:C53:SA:12082,Carrefour Maison Neuve et D 7
+admin:53008,Aron,stop_area:C53:SA:12151,Les Basses Oyères
+admin:53008,Aron,stop_area:C53:SA:13896,La Demi Lieue
+admin:53008,Aron,stop_area:C53:SA:13904,La Maison Neuve
+admin:53153,Mézangers,stop_area:C53:SA:3721,Eglise
+admin:53082,Courbeveille,stop_area:C53:SA:1893,Parking Douves
+admin:53158,Montjean,stop_area:C53:SA:3887,La Maison Neuve
+admin:53158,Montjean,stop_area:C53:SA:3898,Le Bourg du Chemin
+admin:53158,Montjean,stop_area:C53:SA:3899,Eglise
+admin:53127,Lassay-les-Châteaux,stop_area:C53:SA:3078,La Courberie
+admin:53127,Lassay-les-Châteaux,stop_area:C53:SA:3104,La Barberie
+admin:53127,Lassay-les-Châteaux,stop_area:C53:SA:9195,Pl. du 11 Novembre
+admin:53122,Jublains,stop_area:C53:SA:2844,Ecole publique
+admin:53122,Jublains,stop_area:C53:SA:2856,Ecole pkg
+admin:53135,Livré-la-Touche,stop_area:C53:SA:3273,Rue de Bretagne
+admin:53135,Livré-la-Touche,stop_area:C53:SA:3295,Le Chantier
+admin:53072,Commer,stop_area:C53:SA:1666,Mairie
+admin:53035,Bouchamps-lès-Craon,stop_area:C53:SA:892,Ecole publique
+admin:53114,Hardanges,stop_area:C53:SA:2647,Eglise
+admin:53114,Hardanges,stop_area:C53:SA:2649,La Croix Barbe
+admin:44036,Châteaubriant,stop_area:C44:SA:AST-27091-A-27091-R,Gare SNCF
+admin:44036,Châteaubriant,stop_area:C53:SA:6748,Plate forme
+admin:53209,Saint-Cyr-le-Gravelais,stop_area:C53:SA:10646,Rue du Maine
+admin:53026,Beaulieu-sur-Oudon,stop_area:C53:SA:690,Le Lavoir
+admin:53186,Quelaines-Saint-Gault,stop_area:C53:SA:4400,Eglise
+admin:53258,La Selle-Craonnaise,stop_area:C53:SA:5937,Eglise
+admin:53108,La Gravelle,stop_area:C53:SA:2531,Rue Mme de Sévigné
+admin:53108,La Gravelle,stop_area:C53:SA:2540,La Rodrie
+admin:53143,Maisoncelles-du-Maine,stop_area:C53:SA:3457,Eglise
+admin:53088,Cuillé,stop_area:C53:SA:2021,Eglise
+admin:53088,Cuillé,stop_area:C53:SA:2037,La Lande Ronde
+admin:53075,Cosmes,stop_area:C53:SA:1737,Le Bourg
+admin:53243,Saint-Ouën-des-Toits,stop_area:C53:SA:9950,St Roch
+admin:53243,Saint-Ouën-des-Toits,stop_area:C53:SA:5522,Rte de Laval
+admin:53154,Montaudin,stop_area:C53:SA:3764,Abribus Mairie
+admin:53228,Saint-Jean-sur-Erve,stop_area:C53:SA:5267,Les Poteaux
+admin:53228,Saint-Jean-sur-Erve,stop_area:C53:SA:5269,Rue Nationale
+admin:53137,Loiron-Ruillé,stop_area:C53:SA:3353,Stade
+admin:53137,Loiron-Ruillé,stop_area:C53:SA:4556,Carrefour D 252 et D 574
+admin:53137,Loiron-Ruillé,stop_area:C53:SA:9194,Eglise
+admin:53137,Loiron-Ruillé,stop_area:C53:SA:9376,Mairie
+admin:53137,Loiron-Ruillé,stop_area:C53:SA:12759,La Chapelle du Chêne
+admin:53264,Thorigné-en-Charnie,stop_area:C53:SA:6040,Rue de Charnie
+admin:53264,Thorigné-en-Charnie,stop_area:C53:SA:13239,Les Poteaux
+admin:53162,Moulay,stop_area:C53:SA:3971,Rte Nationale
+admin:53039,Le Bourgneuf-la-Forêt,stop_area:C53:SA:975,Pl. de la Tannerie
+admin:53039,Le Bourgneuf-la-Forêt,stop_area:C53:SA:980,L'Hôtellerie
+admin:53178,Peuton,stop_area:C53:SA:4193,Mairie
+admin:72264,Sablé-sur-Sarthe,stop_area:C72:SA:SABPO,"SABLE SUR SARTHE, Poste"
+admin:72264,Sablé-sur-Sarthe,stop_area:SNC:SA:SAOCE87396408,gare de Sablé-sur-Sarthe
+admin:53121,Javron-les-Chapelles,stop_area:C53:SA:12054,Stade
+admin:53216,Saint-Fraimbault-de-Prières,stop_area:C53:SA:5010,Mairie
+admin:53216,Saint-Fraimbault-de-Prières,stop_area:C53:SA:5011,Gare
+admin:53216,Saint-Fraimbault-de-Prières,stop_area:C53:SA:5013,La Lande
+admin:53216,Saint-Fraimbault-de-Prières,stop_area:C53:SA:5016,Rue Vallées
+admin:53025,Bazougers,stop_area:C53:SA:652,Rte de Forcé
+admin:53234,Saint-Loup-du-Gast,stop_area:C53:SA:5335,Abribus Eglise
+admin:53234,Saint-Loup-du-Gast,stop_area:C53:SA:5348,La Beucherie
+admin:53234,Saint-Loup-du-Gast,stop_area:C53:SA:10478,La Guenerie
+admin:53234,Saint-Loup-du-Gast,stop_area:C53:SA:12804,Carrefour La Livonnière et D 202
+admin:53203,Saint-Brice,stop_area:C53:SA:4739,Les Agets Libération
+admin:53203,Saint-Brice,stop_area:C53:SA:4743,Eglise
+admin:53246,Saint-Pierre-des-Nids,stop_area:C53:SA:5610,Rue Montaigu
+admin:53237,Saint-Mars-sur-Colmont,stop_area:C53:SA:9391,Eglise
+admin:53197,Saint-Aignan-sur-Roë,stop_area:C53:SA:4606,Gendarmerie
+admin:72006,Arçonnay,stop_area:C53:SA:6840,Lycée Navarre
+admin:53036,Bouère,stop_area:C53:SA:922,Place du Souvenir
+admin:53262,Soulgé-sur-Ouette,stop_area:TLA:SA:LAV54,Route De Laval
+admin:53262,Soulgé-sur-Ouette,stop_area:C53:SA:11907,Le Point du Jour
+admin:53267,Vaiges,stop_area:C53:SA:6137,Eglise
+admin:53267,Vaiges,stop_area:C53:SA:10791,Place de la Poste
+admin:53140,Louverné,stop_area:C53:SA:3403,La Ricoulière
+admin:53140,Louverné,stop_area:C53:SA:3407,Pins
+admin:53176,Le Pas,stop_area:C53:SA:4137,Place du 11 Novembre
+admin:53176,Le Pas,stop_area:C53:SA:4161,Les 4 Chemins
+admin:53238,Saint-Mars-sur-la-Futaie,stop_area:C53:SA:14007,Déchetterie
+admin:53001,Ahuillé,stop_area:C53:SA:21,Etrogné
+admin:1215496extern,Condé-sur-Sarthe,stop_area:C53:SA:13435,Centre aquatique
+admin:53012,Athée,stop_area:C53:SA:384,La Brancherie
+admin:53012,Athée,stop_area:C53:SA:395,Eglise
+admin:53208,Saint-Cyr-en-Pail,stop_area:C53:SA:4808,Ecole
+admin:53208,Saint-Cyr-en-Pail,stop_area:C53:SA:11858,Pkg Beausoleil
+admin:53250,Saint-Poix,stop_area:C53:SA:11090,Eglise
+admin:53014,Azé,stop_area:C53:SA:443,Groupe scolaire
+admin:53014,Azé,stop_area:C53:SA:444,St Aventin
+admin:53014,Azé,stop_area:C53:SA:10163,La Vallée
+admin:53014,Azé,stop_area:C53:SA:10164,Grande Fontaine
+admin:53014,Azé,stop_area:C53:SA:10432,La Roche
+admin:53014,Azé,stop_area:C53:SA:12544,La Herriais
+admin:53014,Azé,stop_area:C53:SA:12677,Lycée Agricole
+admin:53014,Azé,stop_area:C53:SA:12710,Collège Paul Emile Victor
+admin:53014,Azé,stop_area:C53:SA:13802,ESAT Rue Romainville
+admin:53014,Azé,stop_area:C53:SA:13947,Terre Rouge
+admin:53260,Simplé,stop_area:C53:SA:5969,Eglise
+admin:53125,Landivy,stop_area:C53:SA:14006,Mairie
+admin:53211,Saint-Denis-de-Gastines,stop_area:C53:SA:9510,Pl. des Tilleuls
+admin:53046,Le Buret,stop_area:C53:SA:1161,Lot. La Pommeraie
+admin:53077,Cossé-le-Vivien,stop_area:C53:SA:1826,Mairie
+admin:53077,Cossé-le-Vivien,stop_area:C53:SA:9619,Le Pavillon
+admin:53077,Cossé-le-Vivien,stop_area:C53:SA:10097,Gare
+admin:53057,La Chapelle-au-Riboul,stop_area:C53:SA:1393,Ancienne Gare
+admin:53057,La Chapelle-au-Riboul,stop_area:C53:SA:1396,Eglise
+admin:53089,Daon,stop_area:C53:SA:2052,Salle des Fêtes
